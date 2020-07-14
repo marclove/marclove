@@ -3,8 +3,8 @@
 - 🛠 I'm Director of Engineering at [@carbonfive](https://github.com/carbonfive).
 - 📱 I’m currently working on [Stitch Fix's iOS app](https://apps.apple.com/us/app/stitch-fix-personal-stylist/id1022579925).
 - 🌱 I’m currently building my skills in Combine, SwiftUI, and Golang.
-- 📚 I'm studying organizational design and how to effectively scale high performing teams in rapidly growing companies.
-- 🤔 I’m looking for help with expanding my network in the NYC tech scene, having recently moved here from SF.
+- 📚 I'm studying org design & how to effectively scale high performing teams.
+- 🤔 I’m looking to expand my network in the NYC tech scene.
 - 💬 Ask me about my experience as a pilot. ✈️
 - 😄 Pronouns: He/him
 - ❤️ I'm passionate about restoring the human and civil rights of immigrants, achieving equal rights for all, rebalancing the distribution of wealth, and finding ways that tech can compliment, empower, and amplify the work of activists leading the charge to achieve those outcomes.
