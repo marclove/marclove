@@ -2,6 +2,7 @@
 
 - 🛠 I'm Director of Engineering at [@carbonfive](https://github.com/carbonfive).
 - 📱 I’m currently working on [Stitch Fix's iOS app](https://apps.apple.com/us/app/stitch-fix-personal-stylist/id1022579925).
+- 👨🏻‍💻 I've worked with over 25 companies over the course of my 22 year career as a software engineer.
 - 🌱 I’m currently building my skills in Combine, SwiftUI, and Golang.
 - 📚 I'm studying org design & how to effectively scale high performing teams.
 - 🤔 I’m looking to expand my network in the NYC tech scene.
